@@ -194,7 +194,7 @@
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT | AXN White">
-    <display-name lang="pt">AXN White</display-name>
+    <display-name lang="pt">PT | AXN White</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="BABY TV">
@@ -16885,22 +16885,22 @@
     <category lang="pt">series</category>
     <episode-num system="onscreen">S2E13</episode-num>
   </programme>
-  <programme start="20210117002300 +0000" stop="20210117012700 +0000" channel="AXN WHITE">
+  <programme start="20210117002300 +0000" stop="20210117012700 +0000" channel="PT | AXN White">
     <title lang="pt">Outlander</title>
     <category lang="pt">series</category>
     <episode-num system="onscreen">S4E1</episode-num>
   </programme>
-  <programme start="20210117012700 +0000" stop="20210117022200 +0000" channel="AXN WHITE">
+  <programme start="20210117012700 +0000" stop="20210117022200 +0000" channel="PT | AXN White">
     <title lang="pt">Outlander</title>
     <category lang="pt">series</category>
     <episode-num system="onscreen">S4E2</episode-num>
   </programme>
-  <programme start="20210117022200 +0000" stop="20210117031900 +0000" channel="AXN WHITE">
+  <programme start="20210117022200 +0000" stop="20210117031900 +0000" channel="PT | AXN White">
     <title lang="pt">Masters Of Sex</title>
     <category lang="pt">series</category>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme start="20210117031900 +0000" stop="20210117044800 +0000" channel="AXN WHITE">
+  <programme start="20210117031900 +0000" stop="20210117044800 +0000" channel="PT | AXN White">
     <title lang="pt">A Vingança da Mulher de Meia-Idade</title>
     <category lang="pt">filmes</category>
   </programme>
