@@ -1,0 +1,1577 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="rtp1.pt">
+    <display-name lang="pt">RTP 1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="rtp2.pt">
+    <display-name lang="pt">RTP 2</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-2.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="sic.pt">
+    <display-name lang="pt">SIC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI.pt">
+    <display-name lang="pt">TVI</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="sicnoticias.pt">
+    <display-name lang="pt">SIC NOTICIAS</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-noticias.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="RTP3.pt">
+    <display-name lang="pt">RTP 3</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-3.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI24.pt">
+    <display-name lang="pt">TVI24</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi24.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="CMTV.pt">
+    <display-name lang="pt">CMTV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cmtv-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SICMhd">
+    <display-name lang="pt">SIC MULHER HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-mulher-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="GloboNow.pt">
+    <display-name lang="pt">GLOBO</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/globo-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Canal11.pt">
+    <display-name lang="pt">Canal 11</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/c-11.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVIFiccao.pt">
+    <display-name lang="pt">TVI FICÇÃO</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi-ficcao.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ABolaTV.pt">
+    <display-name lang="pt">A BOLA TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SportTVplus.pt">
+    <display-name lang="pt">SPORT TV + HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv+hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="PortoCanal.pt">
+    <display-name lang="pt">PORTO CANAL</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/porto-canal-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="sporttv1.pt">
+    <display-name lang="pt">SPORT.TV1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv1.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="sporttv2.pt">
+    <display-name lang="pt">SPORT.TV2</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv2.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="sporttv3.pt">
+    <display-name lang="pt">SPORT.TV3</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv3.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="sporttv4.pt">
+    <display-name lang="pt">SPORT.TV4</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv4.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="sporttv5.pt">
+    <display-name lang="pt">SPORT.TV5</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv5.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="BTV 1hd">
+    <display-name lang="pt">BTV HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="BTV1hd">
+    <display-name lang="pt">BTV HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="BTV 1 LOW">
+    <display-name lang="pt">BTV HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="NBA.pt">
+    <display-name lang="pt">NBA TV HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="elevensports1.pt">
+    <display-name lang="pt">ELEVEN 1 HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="elevensports2.pt">
+    <display-name lang="pt">ELEVEN 2 HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="elevensports3.pt">
+    <display-name lang="pt">ELEVEN 3 HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SPORTINGTV.pt">
+    <display-name lang="pt">SPORTING TV HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Eurosport1.pt">
+    <display-name lang="pt">EUROSPORT 1 HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Eurosport2.pt">
+    <display-name lang="pt">EUROSPORT 2 HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="KOMBAT SPORT">
+    <display-name lang="pt">KOMBAT SPORT HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="disneychannel.pt">
+    <display-name lang="pt">DISNEY CHANNEL</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="cartoon.pt">
+    <display-name lang="pt">CARTOON NETWORK</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="PandaBiggs.pt">
+    <display-name lang="pt">BIGGS</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SicK.pt">
+    <display-name lang="pt">SIC K</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Nickelodeon.pt">
+    <display-name lang="pt">NICKELODEON</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="DisneyJunior.pt">
+    <display-name lang="pt">DISNEY JUNIOR</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="canalpanda.pt">
+    <display-name lang="pt">PANDA</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="JimJam.pt">
+    <display-name lang="pt">JIMJAM</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="pt">BABY TV</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVC1">
+    <display-name lang="pt">TVCine TOP HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVC2">
+    <display-name lang="pt">TVCINE Edition HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVCg2">
+    <display-name lang="pt">TVCINE Edition HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVC3">
+    <display-name lang="pt">TVCINE Emotion HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVC4">
+    <display-name lang="pt">TVCine Action HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Cinemundo.pt">
+    <display-name lang="pt">CINEMUNDO HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="hollywood.pt">
+    <display-name lang="pt">HOLLYWOOD HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FoxMovies.pt">
+    <display-name lang="pt">FOX MOVIES HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="AMC.pt">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="AXNBlack.pt">
+    <display-name lang="pt">AXN MOVIES HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FOXHD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="foxlife.pt">
+    <display-name lang="pt">FOX LIFE HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="foxcrime.pt">
+    <display-name lang="pt">FOX CRIME HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FOXComedy.pt">
+    <display-name lang="pt">FOX COMEDY HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="axn.pt">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="AXNWhite.pt">
+    <display-name lang="pt">AXN WHITE HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SyFy.pt">
+    <display-name lang="pt">SYFY HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="discoverychannel.pt">
+    <display-name lang="pt">DISCOVERY CHANNEL HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="HistoryChannel.pt">
+    <display-name lang="pt">HISTÓRIA HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="odisseia.pt">
+    <display-name lang="pt">ODISSEIA HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <programme start="20210120024500 +0000" stop="20210120032800 +0000" channel="rtp1.pt">
+    <title lang="pt">O Sábio</title>
+  </programme>
+  <programme start="20210120032800 +0000" stop="20210120055900 +0000" channel="rtp1.pt">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210120055900 +0000" stop="20210120063000 +0000" channel="rtp1.pt">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20210120063000 +0000" stop="20210120100000 +0000" channel="rtp1.pt">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20210120100000 +0000" stop="20210120130000 +0000" channel="rtp1.pt">
+    <title lang="pt">Praça da Alegria</title>
+  </programme>
+  <programme start="20210120130000 +0000" stop="20210120141500 +0000" channel="rtp1.pt">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20210120141500 +0000" stop="20210120145100 +0000" channel="rtp1.pt">
+    <title lang="pt">Romaria do Meu Coração</title>
+  </programme>
+  <programme start="20210120145100 +0000" stop="20210120154400 +0000" channel="rtp1.pt">
+    <title lang="pt">Filha da Lei</title>
+  </programme>
+  <programme start="20210120154400 +0000" stop="20210120173000 +0000" channel="rtp1.pt">
+    <title lang="pt">A Nossa Tarde</title>
+  </programme>
+  <programme start="20210120173000 +0000" stop="20210120190000 +0000" channel="rtp1.pt">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20210120190000 +0000" stop="20210120192400 +0000" channel="rtp1.pt">
+    <title lang="pt">Campanha Eleitoral - Eleições Presidenciais 2021</title>
+  </programme>
+  <programme start="20210120192400 +0000" stop="20210120195900 +0000" channel="rtp1.pt">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20210120195900 +0000" stop="20210120210800 +0000" channel="rtp1.pt">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20210120210800 +0000" stop="20210120215200 +0000" channel="rtp1.pt">
+    <title lang="pt">Crónica dos Bons Malandros</title>
+  </programme>
+  <programme start="20210120215200 +0000" stop="20210120224300 +0000" channel="rtp1.pt">
+    <title lang="pt">Joker</title>
+  </programme>
+  <programme start="20210120224300 +0000" stop="20210121000500 +0000" channel="rtp1.pt">
+    <title lang="pt">Cá Por Casa com Herman José</title>
+  </programme>
+  <programme start="20210120021000 +0000" stop="20210120031000 +0000" channel="rtp2.pt">
+    <title lang="pt">Sociedade Civil</title>
+  </programme>
+  <programme start="20210120031000 +0000" stop="20210120033500 +0000" channel="rtp2.pt">
+    <title lang="pt">E2 - Escola Superior De Comunicação Social</title>
+  </programme>
+  <programme start="20210120033500 +0000" stop="20210120054500 +0000" channel="rtp2.pt">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210120054500 +0000" stop="20210120063200 +0000" channel="rtp2.pt">
+    <title lang="pt">Lusitana Paixão</title>
+  </programme>
+  <programme start="20210120063200 +0000" stop="20210120070000 +0000" channel="rtp2.pt">
+    <title lang="pt">Repórter África</title>
+  </programme>
+  <programme start="20210120070000 +0000" stop="20210120070100 +0000" channel="rtp2.pt">
+    <title lang="pt">Espaço Zig Zag</title>
+  </programme>
+  <programme start="20210120070100 +0000" stop="20210120070200 +0000" channel="rtp2.pt">
+    <title lang="pt">Banda Zig Zag</title>
+  </programme>
+  <programme start="20210120070200 +0000" stop="20210120072600 +0000" channel="rtp2.pt">
+    <title lang="pt">Wow! Wow! Wubbzy!</title>
+  </programme>
+  <programme start="20210120072600 +0000" stop="20210120074000 +0000" channel="rtp2.pt">
+    <title lang="pt">Robocar Poli</title>
+  </programme>
+  <programme start="20210120074000 +0000" stop="20210120075400 +0000" channel="rtp2.pt">
+    <title lang="pt">Robocar Poli</title>
+  </programme>
+  <programme start="20210120075400 +0000" stop="20210120080500 +0000" channel="rtp2.pt">
+    <title lang="pt">Pirata \u0026 Capitão</title>
+  </programme>
+  <programme start="20210120080500 +0000" stop="20210120081700 +0000" channel="rtp2.pt">
+    <title lang="pt">Pirata \u0026 Capitão</title>
+  </programme>
+  <programme start="20210120081700 +0000" stop="20210120081800 +0000" channel="rtp2.pt">
+    <title lang="pt">Banda Zig Zag</title>
+  </programme>
+  <programme start="20210120081800 +0000" stop="20210120082900 +0000" channel="rtp2.pt">
+    <title lang="pt">Ella, Oscar \u0026 Hoo</title>
+  </programme>
+  <programme start="20210120082900 +0000" stop="20210120084000 +0000" channel="rtp2.pt">
+    <title lang="pt">Ella, Oscar \u0026 Hoo</title>
+  </programme>
+  <programme start="20210120084000 +0000" stop="20210120090300 +0000" channel="rtp2.pt">
+    <title lang="pt">Zafari</title>
+  </programme>
+  <programme start="20210120090300 +0000" stop="20210120090700 +0000" channel="rtp2.pt">
+    <title lang="pt">Radar XS</title>
+  </programme>
+  <programme start="20210120090700 +0000" stop="20210120091400 +0000" channel="rtp2.pt">
+    <title lang="pt">Grizzy e os Lemingues</title>
+  </programme>
+  <programme start="20210120091400 +0000" stop="20210120092300 +0000" channel="rtp2.pt">
+    <title lang="pt">Grizzy e os Lemingues</title>
+  </programme>
+  <programme start="20210120092300 +0000" stop="20210120093500 +0000" channel="rtp2.pt">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20210120093500 +0000" stop="20210120094800 +0000" channel="rtp2.pt">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20210120094800 +0000" stop="20210120095900 +0000" channel="rtp2.pt">
+    <title lang="pt">Monstrolândia</title>
+  </programme>
+  <programme start="20210120095900 +0000" stop="20210120101300 +0000" channel="rtp2.pt">
+    <title lang="pt">Monstrolândia</title>
+  </programme>
+  <programme start="20210120101300 +0000" stop="20210120104400 +0000" channel="rtp2.pt">
+    <title lang="pt">Selvagens: A Última Fronteira</title>
+  </programme>
+  <programme start="20210120104400 +0000" stop="20210120113800 +0000" channel="rtp2.pt">
+    <title lang="pt">Nina</title>
+  </programme>
+  <programme start="20210120113800 +0000" stop="20210120123100 +0000" channel="rtp2.pt">
+    <title lang="pt">As Mais Famosas Estações da Europa</title>
+  </programme>
+  <programme start="20210120123100 +0000" stop="20210120125900 +0000" channel="rtp2.pt">
+    <title lang="pt">À Porta Da História</title>
+  </programme>
+  <programme start="20210120125900 +0000" stop="20210120132600 +0000" channel="rtp2.pt">
+    <title lang="pt">Nada Será como Dante</title>
+  </programme>
+  <programme start="20210120132600 +0000" stop="20210120135400 +0000" channel="rtp2.pt">
+    <title lang="pt">Saber Sabe Bem</title>
+  </programme>
+  <programme start="20210120135400 +0000" stop="20210120140000 +0000" channel="rtp2.pt">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210120140000 +0000" stop="20210120150200 +0000" channel="rtp2.pt">
+    <title lang="pt">Sociedade Civil</title>
+  </programme>
+  <programme start="20210120150200 +0000" stop="20210120153400 +0000" channel="rtp2.pt">
+    <title lang="pt">A Fé Dos Homens</title>
+  </programme>
+  <programme start="20210120153400 +0000" stop="20210120160400 +0000" channel="rtp2.pt">
+    <title lang="pt">Do Jardim Para a Mesa</title>
+  </programme>
+  <programme start="20210120160400 +0000" stop="20210120164800 +0000" channel="rtp2.pt">
+    <title lang="pt">Rio Paraná: Um Rio Quase Mar</title>
+  </programme>
+  <programme start="20210120164800 +0000" stop="20210120164900 +0000" channel="rtp2.pt">
+    <title lang="pt">Espaço Zig Zag</title>
+  </programme>
+  <programme start="20210120164900 +0000" stop="20210120171200 +0000" channel="rtp2.pt">
+    <title lang="pt">Wow! Wow! Wubbzy!</title>
+  </programme>
+  <programme start="20210120171200 +0000" stop="20210120172600 +0000" channel="rtp2.pt">
+    <title lang="pt">Robocar Poli</title>
+  </programme>
+  <programme start="20210120172600 +0000" stop="20210120173400 +0000" channel="rtp2.pt">
+    <title lang="pt">As Aventuras da Miffy</title>
+  </programme>
+  <programme start="20210120173400 +0000" stop="20210120174500 +0000" channel="rtp2.pt">
+    <title lang="pt">Ella, Oscar \u0026 Hoo</title>
+  </programme>
+  <programme start="20210120174500 +0000" stop="20210120175500 +0000" channel="rtp2.pt">
+    <title lang="pt">Ella, Oscar \u0026 Hoo</title>
+  </programme>
+  <programme start="20210120175500 +0000" stop="20210120180200 +0000" channel="rtp2.pt">
+    <title lang="pt">Grizzy e os Lemingues</title>
+  </programme>
+  <programme start="20210120180200 +0000" stop="20210120181000 +0000" channel="rtp2.pt">
+    <title lang="pt">Grizzy e os Lemingues</title>
+  </programme>
+  <programme start="20210120181000 +0000" stop="20210120182100 +0000" channel="rtp2.pt">
+    <title lang="pt">Monstrolândia</title>
+  </programme>
+  <programme start="20210120182100 +0000" stop="20210120183200 +0000" channel="rtp2.pt">
+    <title lang="pt">Monstrolândia</title>
+  </programme>
+  <programme start="20210120183200 +0000" stop="20210120185500 +0000" channel="rtp2.pt">
+    <title lang="pt">Boss Baby</title>
+  </programme>
+  <programme start="20210120185500 +0000" stop="20210120185900 +0000" channel="rtp2.pt">
+    <title lang="pt">Radar XS</title>
+  </programme>
+  <programme start="20210120185900 +0000" stop="20210120191000 +0000" channel="rtp2.pt">
+    <title lang="pt">O Meu Cavaleiro E Eu</title>
+  </programme>
+  <programme start="20210120191000 +0000" stop="20210120192100 +0000" channel="rtp2.pt">
+    <title lang="pt">O Meu Cavaleiro E Eu</title>
+  </programme>
+  <programme start="20210120192100 +0000" stop="20210120193400 +0000" channel="rtp2.pt">
+    <title lang="pt">Bell e Sebastião</title>
+  </programme>
+  <programme start="20210120193400 +0000" stop="20210120194600 +0000" channel="rtp2.pt">
+    <title lang="pt">Bell e Sebastião</title>
+  </programme>
+  <programme start="20210120194600 +0000" stop="20210120195900 +0000" channel="rtp2.pt">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20210120195900 +0000" stop="20210120201100 +0000" channel="rtp2.pt">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20210120201100 +0000" stop="20210120201500 +0000" channel="rtp2.pt">
+    <title lang="pt">Banda Zig Zag</title>
+  </programme>
+  <programme start="20210120201500 +0000" stop="20210120203100 +0000" channel="rtp2.pt">
+    <title lang="pt">Campanha Eleitoral - Eleições Presidenciais 2021</title>
+  </programme>
+  <programme start="20210120203100 +0000" stop="20210120212300 +0000" channel="rtp2.pt">
+    <title lang="pt">A Verdadeira Guerra dos Tronos</title>
+  </programme>
+  <programme start="20210120212300 +0000" stop="20210120213000 +0000" channel="rtp2.pt">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210120213000 +0000" stop="20210120220100 +0000" channel="rtp2.pt">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20210120220100 +0000" stop="20210120224600 +0000" channel="rtp2.pt">
+    <title lang="pt">Felizes, Mas Não Para Sempre</title>
+  </programme>
+  <programme start="20210120224600 +0000" stop="20210120234400 +0000" channel="rtp2.pt">
+    <title lang="pt">As Febres do Século</title>
+  </programme>
+  <programme start="20210120234400 +0000" stop="20210121000900 +0000" channel="rtp2.pt">
+    <title lang="pt">Peixe Fora d´Água</title>
+  </programme>
+  <programme start="20210120025500 +0000" stop="20210120035000 +0000" channel="sic.pt">
+    <title lang="pt">Linha Aberta</title>
+  </programme>
+  <programme start="20210120035000 +0000" stop="20210120053500 +0000" channel="sic.pt">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210120053500 +0000" stop="20210120060000 +0000" channel="sic.pt">
+    <title lang="pt">Camilo, O Presidente</title>
+  </programme>
+  <programme start="20210120060000 +0000" stop="20210120083000 +0000" channel="sic.pt">
+    <title lang="pt">Edição Da Manhã</title>
+  </programme>
+  <programme start="20210120083000 +0000" stop="20210120101500 +0000" channel="sic.pt">
+    <title lang="pt">Alô Portugal</title>
+  </programme>
+  <programme start="20210120101500 +0000" stop="20210120130000 +0000" channel="sic.pt">
+    <title lang="pt">Casa Feliz</title>
+  </programme>
+  <programme start="20210120130000 +0000" stop="20210120145500 +0000" channel="sic.pt">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20210120145500 +0000" stop="20210120161500 +0000" channel="sic.pt">
+    <title lang="pt">Linha Aberta</title>
+  </programme>
+  <programme start="20210120161500 +0000" stop="20210120181500 +0000" channel="sic.pt">
+    <title lang="pt">Júlia</title>
+  </programme>
+  <programme start="20210120181500 +0000" stop="20210120190000 +0000" channel="sic.pt">
+    <title lang="pt">Viver a Vida</title>
+  </programme>
+  <programme start="20210120190000 +0000" stop="20210120191500 +0000" channel="sic.pt">
+    <title lang="pt">Tempo de Antena</title>
+  </programme>
+  <programme start="20210120191500 +0000" stop="20210120193500 +0000" channel="sic.pt">
+    <title lang="pt">Jornal Da Noite</title>
+  </programme>
+  <programme start="20210120193500 +0000" stop="20210120214500 +0000" channel="sic.pt">
+    <title lang="pt">SC Braga x Benfica - Taça da Liga (Direto)</title>
+  </programme>
+  <programme start="20210120214500 +0000" stop="20210120223000 +0000" channel="sic.pt">
+    <title lang="pt">Amor, Amor</title>
+  </programme>
+  <programme start="20210120223000 +0000" stop="20210120231500 +0000" channel="sic.pt">
+    <title lang="pt">Terra Brava</title>
+  </programme>
+  <programme start="20210120231500 +0000" stop="20210121001000 +0000" channel="sic.pt">
+    <title lang="pt">Golpe De Sorte</title>
+  </programme>
+  <programme start="20210120023500 +0000" stop="20210120031800 +0000" channel="TVI.pt">
+    <title lang="pt">Hawaii Força Especial</title>
+  </programme>
+  <programme start="20210120031800 +0000" stop="20210120041500 +0000" channel="TVI.pt">
+    <title lang="pt">Santa Bárbara</title>
+  </programme>
+  <programme start="20210120041500 +0000" stop="20210120054500 +0000" channel="TVI.pt">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20210120054500 +0000" stop="20210120060500 +0000" channel="TVI.pt">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20210120060500 +0000" stop="20210120063000 +0000" channel="TVI.pt">
+    <title lang="pt">Curious George</title>
+  </programme>
+  <programme start="20210120063000 +0000" stop="20210120101200 +0000" channel="TVI.pt">
+    <title lang="pt">Diário Da Manhã</title>
+  </programme>
+  <programme start="20210120101200 +0000" stop="20210120130000 +0000" channel="TVI.pt">
+    <title lang="pt">Dois às 10</title>
+  </programme>
+  <programme start="20210120130000 +0000" stop="20210120145000 +0000" channel="TVI.pt">
+    <title lang="pt">Jornal Da Uma</title>
+  </programme>
+  <programme start="20210120145000 +0000" stop="20210120161300 +0000" channel="TVI.pt">
+    <title lang="pt">Destinos Cruzados</title>
+  </programme>
+  <programme start="20210120161300 +0000" stop="20210120181000 +0000" channel="TVI.pt">
+    <title lang="pt">Goucha</title>
+  </programme>
+  <programme start="20210120181000 +0000" stop="20210120190000 +0000" channel="TVI.pt">
+    <title lang="pt">Big Brother - Duplo Impacto: Última Hora</title>
+  </programme>
+  <programme start="20210120190000 +0000" stop="20210120192500 +0000" channel="TVI.pt">
+    <title lang="pt">Tempo de Antena - Presidenciais 2021</title>
+  </programme>
+  <programme start="20210120192500 +0000" stop="20210120195700 +0000" channel="TVI.pt">
+    <title lang="pt">Big Brother - Duplo Impacto: Diário</title>
+  </programme>
+  <programme start="20210120195700 +0000" stop="20210120215000 +0000" channel="TVI.pt">
+    <title lang="pt">Jornal Das 8</title>
+  </programme>
+  <programme start="20210120215000 +0000" stop="20210120224200 +0000" channel="TVI.pt">
+    <title lang="pt">Bem me Quer</title>
+  </programme>
+  <programme start="20210120224200 +0000" stop="20210121000000 +0000" channel="TVI.pt">
+    <title lang="pt">Amar Demais</title>
+  </programme>
+  <programme start="20210120023000 +0000" stop="20210120030000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Primeira Página</title>
+  </programme>
+  <programme start="20210120030000 +0000" stop="20210120034500 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Toda A Verdade: Quem Financia O Terror?</title>
+  </programme>
+  <programme start="20210120034500 +0000" stop="20210120041500 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Primeira Página</title>
+  </programme>
+  <programme start="20210120041500 +0000" stop="20210120050000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Panorama BBC: A Casa Branca de Trump II</title>
+  </programme>
+  <programme start="20210120050000 +0000" stop="20210120051500 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Volante</title>
+  </programme>
+  <programme start="20210120051500 +0000" stop="20210120053000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Cartaz</title>
+  </programme>
+  <programme start="20210120053000 +0000" stop="20210120060000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Primeira Página</title>
+  </programme>
+  <programme start="20210120060000 +0000" stop="20210120094500 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Edição Da Manhã</title>
+  </programme>
+  <programme start="20210120094500 +0000" stop="20210120100000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Exame Informática</title>
+  </programme>
+  <programme start="20210120100000 +0000" stop="20210120110000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Edição Do Meio-Dia</title>
+  </programme>
+  <programme start="20210120110000 +0000" stop="20210120120000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Opinião Pública</title>
+  </programme>
+  <programme start="20210120120000 +0000" stop="20210120130000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Edição Do Meio-Dia</title>
+  </programme>
+  <programme start="20210120130000 +0000" stop="20210120144500 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20210120144500 +0000" stop="20210120175500 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Edição Da Tarde</title>
+  </programme>
+  <programme start="20210120175500 +0000" stop="20210120185500 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Mercado Aberto - Tarde</title>
+  </programme>
+  <programme start="20210120185500 +0000" stop="20210120200000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Jornal Das 7</title>
+  </programme>
+  <programme start="20210120200000 +0000" stop="20210120213000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Edição Da Noite</title>
+  </programme>
+  <programme start="20210120213000 +0000" stop="20210120223000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Taça da Liga</title>
+  </programme>
+  <programme start="20210120223000 +0000" stop="20210120230000 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Edição Da Noite</title>
+  </programme>
+  <programme start="20210120230000 +0000" stop="20210120235800 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Negócios Da Semana</title>
+  </programme>
+  <programme start="20210120235800 +0000" stop="20210121011500 +0000" channel="sicnoticias.pt">
+    <title lang="pt">Jornal Da Meia Noite</title>
+  </programme>
+  <programme start="20210120021500 +0000" stop="20210120030500 +0000" channel="RTP3.pt">
+    <title lang="pt">O Outro Lado</title>
+  </programme>
+  <programme start="20210120030500 +0000" stop="20210120033500 +0000" channel="RTP3.pt">
+    <title lang="pt">Linha da Frente</title>
+  </programme>
+  <programme start="20210120033500 +0000" stop="20210120035000 +0000" channel="RTP3.pt">
+    <title lang="pt">Fotobox</title>
+  </programme>
+  <programme start="20210120035000 +0000" stop="20210120040000 +0000" channel="RTP3.pt">
+    <title lang="pt">A Essência</title>
+  </programme>
+  <programme start="20210120040000 +0000" stop="20210120043000 +0000" channel="RTP3.pt">
+    <title lang="pt">Eixo Norte Sul</title>
+  </programme>
+  <programme start="20210120043000 +0000" stop="20210120050000 +0000" channel="RTP3.pt">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20210120050000 +0000" stop="20210120053000 +0000" channel="RTP3.pt">
+    <title lang="pt">Telejornal Madeira</title>
+  </programme>
+  <programme start="20210120053000 +0000" stop="20210120060000 +0000" channel="RTP3.pt">
+    <title lang="pt">Telejornal Açores</title>
+  </programme>
+  <programme start="20210120060000 +0000" stop="20210120063000 +0000" channel="RTP3.pt">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20210120063000 +0000" stop="20210120100000 +0000" channel="RTP3.pt">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20210120100000 +0000" stop="20210120110000 +0000" channel="RTP3.pt">
+    <title lang="pt">3 Às 10</title>
+  </programme>
+  <programme start="20210120110000 +0000" stop="20210120120000 +0000" channel="RTP3.pt">
+    <title lang="pt">3 Às 11</title>
+  </programme>
+  <programme start="20210120120000 +0000" stop="20210120130000 +0000" channel="RTP3.pt">
+    <title lang="pt">Jornal Das 12</title>
+  </programme>
+  <programme start="20210120130000 +0000" stop="20210120140000 +0000" channel="RTP3.pt">
+    <title lang="pt">As Leis da Guerra</title>
+  </programme>
+  <programme start="20210120140000 +0000" stop="20210120150000 +0000" channel="RTP3.pt">
+    <title lang="pt">3 Às 14</title>
+  </programme>
+  <programme start="20210120150000 +0000" stop="20210120153000 +0000" channel="RTP3.pt">
+    <title lang="pt">3 Às 15</title>
+  </programme>
+  <programme start="20210120153000 +0000" stop="20210120154500 +0000" channel="RTP3.pt">
+    <title lang="pt">Eixo Norte Sul</title>
+  </programme>
+  <programme start="20210120154500 +0000" stop="20210120160000 +0000" channel="RTP3.pt">
+    <title lang="pt">Zoom África</title>
+  </programme>
+  <programme start="20210120160000 +0000" stop="20210120170000 +0000" channel="RTP3.pt">
+    <title lang="pt">3 Às 16</title>
+  </programme>
+  <programme start="20210120170000 +0000" stop="20210120191500 +0000" channel="RTP3.pt">
+    <title lang="pt">Especial 3: Tomada de Posse de Joe Biden</title>
+  </programme>
+  <programme start="20210120191500 +0000" stop="20210120200000 +0000" channel="RTP3.pt">
+    <title lang="pt">3 às 19</title>
+  </programme>
+  <programme start="20210120200000 +0000" stop="20210120210000 +0000" channel="RTP3.pt">
+    <title lang="pt">Tortura limpa: Uma Invenção Americana</title>
+  </programme>
+  <programme start="20210120210000 +0000" stop="20210120223000 +0000" channel="RTP3.pt">
+    <title lang="pt">360º</title>
+  </programme>
+  <programme start="20210120223000 +0000" stop="20210120230000 +0000" channel="RTP3.pt">
+    <title lang="pt">Diário de Campanha - Presidenciais 2021</title>
+  </programme>
+  <programme start="20210120230000 +0000" stop="20210120230500 +0000" channel="RTP3.pt">
+    <title lang="pt">3 Às 23</title>
+  </programme>
+  <programme start="20210120230500 +0000" stop="20210121000000 +0000" channel="RTP3.pt">
+    <title lang="pt">Grande Entrevista: Marta Temido</title>
+  </programme>
+  <programme start="20210120022100 +0000" stop="20210120031700 +0000" channel="TVI24.pt">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20210120031700 +0000" stop="20210120034000 +0000" channel="TVI24.pt">
+    <title lang="pt">Hora Da Verdade</title>
+  </programme>
+  <programme start="20210120034000 +0000" stop="20210120040000 +0000" channel="TVI24.pt">
+    <title lang="pt">GTi</title>
+  </programme>
+  <programme start="20210120040000 +0000" stop="20210120060000 +0000" channel="TVI24.pt">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20210120060000 +0000" stop="20210120063000 +0000" channel="TVI24.pt">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20210120063000 +0000" stop="20210120100000 +0000" channel="TVI24.pt">
+    <title lang="pt">Diário Da Manhã</title>
+  </programme>
+  <programme start="20210120100000 +0000" stop="20210120120000 +0000" channel="TVI24.pt">
+    <title lang="pt">Especial 24 - Confinamento Geral</title>
+  </programme>
+  <programme start="20210120120000 +0000" stop="20210120130000 +0000" channel="TVI24.pt">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20210120130000 +0000" stop="20210120143800 +0000" channel="TVI24.pt">
+    <title lang="pt">Jornal Da Uma</title>
+  </programme>
+  <programme start="20210120143800 +0000" stop="20210120150000 +0000" channel="TVI24.pt">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20210120150000 +0000" stop="20210120160000 +0000" channel="TVI24.pt">
+    <title lang="pt">Especial 24 - Confinamento Geral</title>
+  </programme>
+  <programme start="20210120160000 +0000" stop="20210120175500 +0000" channel="TVI24.pt">
+    <title lang="pt">Especial 24 - Tomada De Posse de Joe Biden</title>
+  </programme>
+  <programme start="20210120175500 +0000" stop="20210120190000 +0000" channel="TVI24.pt">
+    <title lang="pt">Mais Transferências</title>
+  </programme>
+  <programme start="20210120190000 +0000" stop="20210120195700 +0000" channel="TVI24.pt">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20210120195700 +0000" stop="20210120214800 +0000" channel="TVI24.pt">
+    <title lang="pt">Jornal Das 8</title>
+  </programme>
+  <programme start="20210120214800 +0000" stop="20210120235000 +0000" channel="TVI24.pt">
+    <title lang="pt">Noite 24</title>
+  </programme>
+  <programme start="20210120235000 +0000" stop="20210121004000 +0000" channel="TVI24.pt">
+    <title lang="pt">Circulatura Do Quadrado</title>
+  </programme>
+  <programme start="20210120023000 +0000" stop="20210120051600 +0000" channel="CMTV.pt">
+    <title lang="pt">Ninfomaníaca - Parte 2</title>
+  </programme>
+  <programme start="20210120051600 +0000" stop="20210120060000 +0000" channel="CMTV.pt">
+    <title lang="pt">Rua Segura</title>
+  </programme>
+  <programme start="20210120060000 +0000" stop="20210120115700 +0000" channel="CMTV.pt">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20210120115700 +0000" stop="20210120145700 +0000" channel="CMTV.pt">
+    <title lang="pt">CM Jornal Hora Do Almoço</title>
+  </programme>
+  <programme start="20210120145700 +0000" stop="20210120175200 +0000" channel="CMTV.pt">
+    <title lang="pt">Notícias CM</title>
+  </programme>
+  <programme start="20210120175200 +0000" stop="20210120185300 +0000" channel="CMTV.pt">
+    <title lang="pt">Mercado</title>
+  </programme>
+  <programme start="20210120185300 +0000" stop="20210120194500 +0000" channel="CMTV.pt">
+    <title lang="pt">Jornal Às 7</title>
+  </programme>
+  <programme start="20210120194500 +0000" stop="20210120211000 +0000" channel="CMTV.pt">
+    <title lang="pt">CM Jornal 20H</title>
+  </programme>
+  <programme start="20210120211000 +0000" stop="20210120213000 +0000" channel="CMTV.pt">
+    <title lang="pt">Investigação CM</title>
+  </programme>
+  <programme start="20210120213000 +0000" stop="20210121003000 +0000" channel="CMTV.pt">
+    <title lang="pt">Liga D´Ouro</title>
+  </programme>
+  <programme start="20210120025500 +0000" stop="20210120033700 +0000" channel="SICMhd">
+    <title lang="pt">The Good Wife</title>
+  </programme>
+  <programme start="20210120033700 +0000" stop="20210120041900 +0000" channel="SICMhd">
+    <title lang="pt">Hoarders</title>
+  </programme>
+  <programme start="20210120041900 +0000" stop="20210120050300 +0000" channel="SICMhd">
+    <title lang="pt">America\u0027s Got Talent</title>
+  </programme>
+  <programme start="20210120050300 +0000" stop="20210120054500 +0000" channel="SICMhd">
+    <title lang="pt">America\u0027s Got Talent</title>
+  </programme>
+  <programme start="20210120054500 +0000" stop="20210120064100 +0000" channel="SICMhd">
+    <title lang="pt">Faz Sentido</title>
+  </programme>
+  <programme start="20210120064100 +0000" stop="20210120073700 +0000" channel="SICMhd">
+    <title lang="pt">Faz Sentido</title>
+  </programme>
+  <programme start="20210120073700 +0000" stop="20210120081800 +0000" channel="SICMhd">
+    <title lang="pt">The Good Wife</title>
+  </programme>
+  <programme start="20210120081800 +0000" stop="20210120085800 +0000" channel="SICMhd">
+    <title lang="pt">Dr. Phil</title>
+  </programme>
+  <programme start="20210120085800 +0000" stop="20210120091800 +0000" channel="SICMhd">
+    <title lang="pt">Lucky Dog</title>
+  </programme>
+  <programme start="20210120091800 +0000" stop="20210120094100 +0000" channel="SICMhd">
+    <title lang="pt">Lucky Dog</title>
+  </programme>
+  <programme start="20210120094100 +0000" stop="20210120102500 +0000" channel="SICMhd">
+    <title lang="pt">Hoarders</title>
+  </programme>
+  <programme start="20210120102500 +0000" stop="20210120105000 +0000" channel="SICMhd">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20210120105000 +0000" stop="20210120111700 +0000" channel="SICMhd">
+    <title lang="pt">Married At First Sight Austrália</title>
+  </programme>
+  <programme start="20210120111700 +0000" stop="20210120120000 +0000" channel="SICMhd">
+    <title lang="pt">Love It Or List It Vancouver</title>
+  </programme>
+  <programme start="20210120120000 +0000" stop="20210120124500 +0000" channel="SICMhd">
+    <title lang="pt">Love It Or List It Vancouver</title>
+  </programme>
+  <programme start="20210120124500 +0000" stop="20210120134700 +0000" channel="SICMhd">
+    <title lang="pt">Joias TV - Televendas</title>
+  </programme>
+  <programme start="20210120134700 +0000" stop="20210120143500 +0000" channel="SICMhd">
+    <title lang="pt">My Dream Home</title>
+  </programme>
+  <programme start="20210120143500 +0000" stop="20210120150400 +0000" channel="SICMhd">
+    <title lang="pt">Mesa Luisa</title>
+  </programme>
+  <programme start="20210120150400 +0000" stop="20210120154600 +0000" channel="SICMhd">
+    <title lang="pt">Hoarders</title>
+  </programme>
+  <programme start="20210120154600 +0000" stop="20210120163200 +0000" channel="SICMhd">
+    <title lang="pt">Hoarders</title>
+  </programme>
+  <programme start="20210120163200 +0000" stop="20210120171700 +0000" channel="SICMhd">
+    <title lang="pt">America\u0027s Got Talent</title>
+  </programme>
+  <programme start="20210120171700 +0000" stop="20210120175900 +0000" channel="SICMhd">
+    <title lang="pt">American Idol</title>
+  </programme>
+  <programme start="20210120175900 +0000" stop="20210120184200 +0000" channel="SICMhd">
+    <title lang="pt">American Idol</title>
+  </programme>
+  <programme start="20210120184200 +0000" stop="20210120191700 +0000" channel="SICMhd">
+    <title lang="pt">Seven Year Switch Spain</title>
+  </programme>
+  <programme start="20210120191700 +0000" stop="20210120200200 +0000" channel="SICMhd">
+    <title lang="pt">Love It Or List It Vancouver</title>
+  </programme>
+  <programme start="20210120200200 +0000" stop="20210120204900 +0000" channel="SICMhd">
+    <title lang="pt">Love It Or List It Vancouver</title>
+  </programme>
+  <programme start="20210120204900 +0000" stop="20210120214300 +0000" channel="SICMhd">
+    <title lang="pt">Property Brothers Buying And Selling</title>
+  </programme>
+  <programme start="20210120214300 +0000" stop="20210120223100 +0000" channel="SICMhd">
+    <title lang="pt">My Dream Home</title>
+  </programme>
+  <programme start="20210120223100 +0000" stop="20210120225100 +0000" channel="SICMhd">
+    <title lang="pt">Masterchef Brasil</title>
+  </programme>
+  <programme start="20210120225100 +0000" stop="20210120233700 +0000" channel="SICMhd">
+    <title lang="pt">Masterchef Brasil</title>
+  </programme>
+  <programme start="20210120233700 +0000" stop="20210120235200 +0000" channel="SICMhd">
+    <title lang="pt">America\u0027s Got Talent</title>
+  </programme>
+  <programme start="20210120235200 +0000" stop="20210121003300 +0000" channel="SICMhd">
+    <title lang="pt">America\u0027s Got Talent</title>
+  </programme>
+  <programme start="20210120021500 +0000" stop="20210120030500 +0000" channel="GloboNow.pt">
+    <title lang="pt">A Força do Querer</title>
+  </programme>
+  <programme start="20210120030500 +0000" stop="20210120035500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Império</title>
+  </programme>
+  <programme start="20210120035500 +0000" stop="20210120044500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Laços de Família</title>
+  </programme>
+  <programme start="20210120044500 +0000" stop="20210120053000 +0000" channel="GloboNow.pt">
+    <title lang="pt">Guerra e Paz</title>
+  </programme>
+  <programme start="20210120053000 +0000" stop="20210120055500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20210120055500 +0000" stop="20210120063500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20210120063500 +0000" stop="20210120071500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Sabor da Paixão</title>
+  </programme>
+  <programme start="20210120071500 +0000" stop="20210120080500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Aquele Beijo</title>
+  </programme>
+  <programme start="20210120080500 +0000" stop="20210120085500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Haja Coração</title>
+  </programme>
+  <programme start="20210120085500 +0000" stop="20210120095500 +0000" channel="GloboNow.pt">
+    <title lang="pt">A Força do Querer</title>
+  </programme>
+  <programme start="20210120095500 +0000" stop="20210120105500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Império</title>
+  </programme>
+  <programme start="20210120105500 +0000" stop="20210120115000 +0000" channel="GloboNow.pt">
+    <title lang="pt">Laços de Família</title>
+  </programme>
+  <programme start="20210120115000 +0000" stop="20210120122000 +0000" channel="GloboNow.pt">
+    <title lang="pt">Rainha Da Cocada</title>
+  </programme>
+  <programme start="20210120122000 +0000" stop="20210120125000 +0000" channel="GloboNow.pt">
+    <title lang="pt">Malhação</title>
+  </programme>
+  <programme start="20210120125000 +0000" stop="20210120134000 +0000" channel="GloboNow.pt">
+    <title lang="pt">Sinhá Moça</title>
+  </programme>
+  <programme start="20210120134000 +0000" stop="20210120144500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Sabor da Paixão</title>
+  </programme>
+  <programme start="20210120144500 +0000" stop="20210120154500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Império</title>
+  </programme>
+  <programme start="20210120154500 +0000" stop="20210120164500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Laços de Família</title>
+  </programme>
+  <programme start="20210120164500 +0000" stop="20210120171500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+  </programme>
+  <programme start="20210120171500 +0000" stop="20210120180000 +0000" channel="GloboNow.pt">
+    <title lang="pt">Fera Radical</title>
+  </programme>
+  <programme start="20210120180000 +0000" stop="20210120185000 +0000" channel="GloboNow.pt">
+    <title lang="pt">Paraíso</title>
+  </programme>
+  <programme start="20210120185000 +0000" stop="20210120194000 +0000" channel="GloboNow.pt">
+    <title lang="pt">Aquele Beijo</title>
+  </programme>
+  <programme start="20210120194000 +0000" stop="20210120203000 +0000" channel="GloboNow.pt">
+    <title lang="pt">Haja Coração</title>
+  </programme>
+  <programme start="20210120203000 +0000" stop="20210120213000 +0000" channel="GloboNow.pt">
+    <title lang="pt">A Força do Querer</title>
+  </programme>
+  <programme start="20210120213000 +0000" stop="20210120222000 +0000" channel="GloboNow.pt">
+    <title lang="pt">Império</title>
+  </programme>
+  <programme start="20210120222000 +0000" stop="20210120231500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Laços de Família</title>
+  </programme>
+  <programme start="20210120231500 +0000" stop="20210121000500 +0000" channel="GloboNow.pt">
+    <title lang="pt">Guerra e Paz</title>
+  </programme>
+  <programme start="20210120012000 +0000" stop="20210120030000 +0000" channel="Canal11.pt">
+    <title lang="pt">Futebol Total</title>
+  </programme>
+  <programme start="20210120030000 +0000" stop="20210120031500 +0000" channel="Canal11.pt">
+    <title lang="pt">Campeonato Brasileiro Futebol Série A - Compacto 30ª Jornada</title>
+  </programme>
+  <programme start="20210120031500 +0000" stop="20210120051500 +0000" channel="Canal11.pt">
+    <title lang="pt">Derby County x Bournemouth - Championship</title>
+  </programme>
+  <programme start="20210120051500 +0000" stop="20210120053500 +0000" channel="Canal11.pt">
+    <title lang="pt">Meu Clube - GD De Santa Luzia</title>
+  </programme>
+  <programme start="20210120053500 +0000" stop="20210120070000 +0000" channel="Canal11.pt">
+    <title lang="pt">Futsal: Futsal Azemeis x Benfica - Campeonato Nacional</title>
+  </programme>
+  <programme start="20210120070000 +0000" stop="20210120081500 +0000" channel="Canal11.pt">
+    <title lang="pt">11 Na Hora</title>
+  </programme>
+  <programme start="20210120081500 +0000" stop="20210120083000 +0000" channel="Canal11.pt">
+    <title lang="pt">Mister Quiz</title>
+  </programme>
+  <programme start="20210120083000 +0000" stop="20210120084500 +0000" channel="Canal11.pt">
+    <title lang="pt">Futsal: Campeonato Nacional - Compacto 17ª Jornada</title>
+  </programme>
+  <programme start="20210120084500 +0000" stop="20210120085500 +0000" channel="Canal11.pt">
+    <title lang="pt">Knockout</title>
+  </programme>
+  <programme start="20210120085500 +0000" stop="20210120091500 +0000" channel="Canal11.pt">
+    <title lang="pt">Meu Clube - União SC Santiago Do Cacém</title>
+  </programme>
+  <programme start="20210120091500 +0000" stop="20210120110000 +0000" channel="Canal11.pt">
+    <title lang="pt">Futebol Total</title>
+  </programme>
+  <programme start="20210120110000 +0000" stop="20210120130000 +0000" channel="Canal11.pt">
+    <title lang="pt">Fut. Fem.: Maritimo x SC Braga - Taça Da Liga (Direto)</title>
+  </programme>
+  <programme start="20210120130000 +0000" stop="20210120143000 +0000" channel="Canal11.pt">
+    <title lang="pt">Futsal: Futsal Azemeis x Benfica - Campeonato Nacional</title>
+  </programme>
+  <programme start="20210120143000 +0000" stop="20210120150000 +0000" channel="Canal11.pt">
+    <title lang="pt">Futebol A Sério - Luis Castro</title>
+  </programme>
+  <programme start="20210120150000 +0000" stop="20210120151500 +0000" channel="Canal11.pt">
+    <title lang="pt">Mister Quiz</title>
+  </programme>
+  <programme start="20210120151500 +0000" stop="20210120153000 +0000" channel="Canal11.pt">
+    <title lang="pt">Liga Revelação - Compacto 2ª E 3ª Jornada II Fase</title>
+  </programme>
+  <programme start="20210120153000 +0000" stop="20210120173000 +0000" channel="Canal11.pt">
+    <title lang="pt">Fut. Fem.: Torreense x Famalicão - Taça Da Liga (Direto)</title>
+  </programme>
+  <programme start="20210120173000 +0000" stop="20210120191000 +0000" channel="Canal11.pt">
+    <title lang="pt">Sanjoanense x Anadia - Campeonato De Portugal</title>
+  </programme>
+  <programme start="20210120191000 +0000" stop="20210120194500 +0000" channel="Canal11.pt">
+    <title lang="pt">11 Na Hora</title>
+  </programme>
+  <programme start="20210120194500 +0000" stop="20210120213500 +0000" channel="Canal11.pt">
+    <title lang="pt">Norwich x Bristol - Championship</title>
+  </programme>
+  <programme start="20210120213500 +0000" stop="20210120225000 +0000" channel="Canal11.pt">
+    <title lang="pt">11 Na Hora</title>
+  </programme>
+  <programme start="20210120225000 +0000" stop="20210121003000 +0000" channel="Canal11.pt">
+    <title lang="pt">Futebol Total</title>
+  </programme>
+  <programme start="20210120022900 +0000" stop="20210120031900 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Valor da Vida</title>
+  </programme>
+  <programme start="20210120031900 +0000" stop="20210120040400 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20210120040400 +0000" stop="20210120053500 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20210120053500 +0000" stop="20210120063000 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">O Prédio do Vasco</title>
+  </programme>
+  <programme start="20210120063000 +0000" stop="20210120071200 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Onde Está Elisa?</title>
+  </programme>
+  <programme start="20210120071200 +0000" stop="20210120075100 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">O Bando Dos Quatro</title>
+  </programme>
+  <programme start="20210120075100 +0000" stop="20210120084700 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Morangos Com Açúcar</title>
+  </programme>
+  <programme start="20210120084700 +0000" stop="20210120094300 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Ninguém Como Tu</title>
+  </programme>
+  <programme start="20210120094300 +0000" stop="20210120103000 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20210120103000 +0000" stop="20210120105700 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">O Prédio do Vasco</title>
+  </programme>
+  <programme start="20210120105700 +0000" stop="20210120115200 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Valor da Vida</title>
+  </programme>
+  <programme start="20210120115200 +0000" stop="20210120131700 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">A Única Mulher</title>
+  </programme>
+  <programme start="20210120131700 +0000" stop="20210120142000 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20210120142000 +0000" stop="20210120151500 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Vasquinho e Cª</title>
+  </programme>
+  <programme start="20210120151500 +0000" stop="20210120161600 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Morangos Com Açúcar</title>
+  </programme>
+  <programme start="20210120161600 +0000" stop="20210120170600 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Ninguém Como Tu</title>
+  </programme>
+  <programme start="20210120170600 +0000" stop="20210120174700 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Onde Está Elisa?</title>
+  </programme>
+  <programme start="20210120174700 +0000" stop="20210120191000 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">A Única Mulher</title>
+  </programme>
+  <programme start="20210120191000 +0000" stop="20210120200200 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Valor da Vida</title>
+  </programme>
+  <programme start="20210120200200 +0000" stop="20210120210000 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20210120210000 +0000" stop="20210120224000 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20210120224000 +0000" stop="20210120233900 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">O Prédio do Vasco</title>
+  </programme>
+  <programme start="20210120233900 +0000" stop="20210121003000 +0000" channel="TVIFiccao.pt">
+    <title lang="pt">Ninguém Como Tu</title>
+  </programme>
+  <programme start="20210120013000 +0000" stop="20210120032500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Bola da Noite</title>
+  </programme>
+  <programme start="20210120032500 +0000" stop="20210120035000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20210120035000 +0000" stop="20210120042000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Memórias</title>
+  </programme>
+  <programme start="20210120042000 +0000" stop="20210120050500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Póquer - Aposta Mundial</title>
+  </programme>
+  <programme start="20210120050500 +0000" stop="20210120061500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Taça All-Star Esports</title>
+  </programme>
+  <programme start="20210120061500 +0000" stop="20210120064000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Rivalidades</title>
+  </programme>
+  <programme start="20210120064000 +0000" stop="20210120065500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Fairplay Curto</title>
+  </programme>
+  <programme start="20210120065500 +0000" stop="20210120070000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20210120070000 +0000" stop="20210120072500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20210120072500 +0000" stop="20210120075500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Vela, O Mundo A 360°</title>
+  </programme>
+  <programme start="20210120075500 +0000" stop="20210120080000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20210120080000 +0000" stop="20210120082500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20210120082500 +0000" stop="20210120085500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Memórias</title>
+  </programme>
+  <programme start="20210120085500 +0000" stop="20210120090000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20210120090000 +0000" stop="20210120092500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Os Imortais</title>
+  </programme>
+  <programme start="20210120092500 +0000" stop="20210120095500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Ultra-Trail Circuito Mundial</title>
+  </programme>
+  <programme start="20210120095500 +0000" stop="20210120100000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20210120100000 +0000" stop="20210120102500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Bola das 10</title>
+  </programme>
+  <programme start="20210120102500 +0000" stop="20210120105000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Quem É Vivo Sempre Aparece</title>
+  </programme>
+  <programme start="20210120105000 +0000" stop="20210120110000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20210120110000 +0000" stop="20210120112500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Bola das 11</title>
+  </programme>
+  <programme start="20210120112500 +0000" stop="20210120120000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Magazine TT</title>
+  </programme>
+  <programme start="20210120120000 +0000" stop="20210120122500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Bola do Meio Dia</title>
+  </programme>
+  <programme start="20210120122500 +0000" stop="20210120125500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Vendée Globe</title>
+  </programme>
+  <programme start="20210120125500 +0000" stop="20210120132000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Bola da Uma</title>
+  </programme>
+  <programme start="20210120132000 +0000" stop="20210120132500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20210120132500 +0000" stop="20210120135500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Desporto Motorizado</title>
+  </programme>
+  <programme start="20210120135500 +0000" stop="20210120140000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20210120140000 +0000" stop="20210120142500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Bola das 2</title>
+  </programme>
+  <programme start="20210120142500 +0000" stop="20210120151000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Pandemia que Fintou o Desporto</title>
+  </programme>
+  <programme start="20210120151000 +0000" stop="20210120153000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Flag</title>
+  </programme>
+  <programme start="20210120153000 +0000" stop="20210120160000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Rivalidades</title>
+  </programme>
+  <programme start="20210120160000 +0000" stop="20210120162500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Bola da Tarde</title>
+  </programme>
+  <programme start="20210120162500 +0000" stop="20210120172000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Baja Hail Toyota Rali 2020</title>
+  </programme>
+  <programme start="20210120172000 +0000" stop="20210120173000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Racismo-Goal.Com</title>
+  </programme>
+  <programme start="20210120173000 +0000" stop="20210120180000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Dream Teams</title>
+  </programme>
+  <programme start="20210120180000 +0000" stop="20210120183000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Playbola</title>
+  </programme>
+  <programme start="20210120183000 +0000" stop="20210120194500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Bola das 7</title>
+  </programme>
+  <programme start="20210120194500 +0000" stop="20210120202000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Motores</title>
+  </programme>
+  <programme start="20210120202000 +0000" stop="20210120203000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Off</title>
+  </programme>
+  <programme start="20210120203000 +0000" stop="20210120204500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Bola Extra</title>
+  </programme>
+  <programme start="20210120204500 +0000" stop="20210120211000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Momento ESPN</title>
+  </programme>
+  <programme start="20210120211000 +0000" stop="20210120211500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Jornal Dos Clássicos</title>
+  </programme>
+  <programme start="20210120211500 +0000" stop="20210120214500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Os Imortais</title>
+  </programme>
+  <programme start="20210120214500 +0000" stop="20210120234500 +0000" channel="ABolaTV.pt">
+    <title lang="pt">A Bola da Noite</title>
+  </programme>
+  <programme start="20210120234500 +0000" stop="20210121001000 +0000" channel="ABolaTV.pt">
+    <title lang="pt">Remate Final</title>
+  </programme>
+  <programme start="20210120012500 +0000" stop="20210120033000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Sporting x FC Porto - Taça Da Liga</title>
+  </programme>
+  <programme start="20210120033000 +0000" stop="20210120040000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Taça Da Liga Argentina: Resumos Da Jornada</title>
+  </programme>
+  <programme start="20210120040000 +0000" stop="20210120043000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Antevisão: Juventus x Nápoles - Supertaça de Itália</title>
+  </programme>
+  <programme start="20210120043000 +0000" stop="20210120053000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">UFC: Hollaway x Kattar</title>
+  </programme>
+  <programme start="20210120053000 +0000" stop="20210120060000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Esqui: Kreischberg, Austria - Taça do Mundo Freestyle</title>
+  </programme>
+  <programme start="20210120060000 +0000" stop="20210120063000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">WRC - Antevisão - Rali de Monte Carlo</title>
+  </programme>
+  <programme start="20210120063000 +0000" stop="20210120065500 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Motociclismo: Magazine Motorcycle Sports</title>
+  </programme>
+  <programme start="20210120065500 +0000" stop="20210120085500 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Sporting x FC Porto - Taça Da Liga</title>
+  </programme>
+  <programme start="20210120085500 +0000" stop="20210120112500 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Manhã Informativa</title>
+  </programme>
+  <programme start="20210120112500 +0000" stop="20210120115500 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Sporting x FC Porto - Taça Da Liga</title>
+  </programme>
+  <programme start="20210120115500 +0000" stop="20210120130000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Grande Jornal</title>
+  </programme>
+  <programme start="20210120130000 +0000" stop="20210120133000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Taça Da Liga Argentina: Resumos Da Jornada</title>
+  </programme>
+  <programme start="20210120133000 +0000" stop="20210120135500 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Antevisão: Juventus x Nápoles - Supertaça de Itália</title>
+  </programme>
+  <programme start="20210120135500 +0000" stop="20210120143000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20210120143000 +0000" stop="20210120150000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Bar Sport TV: Chiquinho Conde E Artur Jorge Vicente - 2ª Parte</title>
+  </programme>
+  <programme start="20210120150000 +0000" stop="20210120155500 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Wrestling: Smackdown</title>
+  </programme>
+  <programme start="20210120155500 +0000" stop="20210120163000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Central +</title>
+  </programme>
+  <programme start="20210120163000 +0000" stop="20210120170000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Sporting x FC Porto - Taça Da Liga</title>
+  </programme>
+  <programme start="20210120170000 +0000" stop="20210120180000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Fan Zone</title>
+  </programme>
+  <programme start="20210120180000 +0000" stop="20210120225500 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Grande Jornada - SC Braga x Benfica - Taça Da Liga</title>
+  </programme>
+  <programme start="20210120225500 +0000" stop="20210120232500 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Central +</title>
+  </programme>
+  <programme start="20210120232500 +0000" stop="20210120235500 +0000" channel="SportTVplus.pt">
+    <title lang="pt">SC Braga x Benfica - Taça Da Liga</title>
+  </programme>
+  <programme start="20210120235500 +0000" stop="20210121010000 +0000" channel="SportTVplus.pt">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+  </programme>
+  <programme start="20210120023000 +0000" stop="20210120033000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Vencedores Como Sempre</title>
+  </programme>
+  <programme start="20210120033000 +0000" stop="20210120040000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Azul e Branco</title>
+  </programme>
+  <programme start="20210120040000 +0000" stop="20210120043000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Pole Position</title>
+  </programme>
+  <programme start="20210120043000 +0000" stop="20210120050000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Glitter Late Night</title>
+  </programme>
+  <programme start="20210120050000 +0000" stop="20210120053000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">N\u0027Agenda</title>
+  </programme>
+  <programme start="20210120053000 +0000" stop="20210120060000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Caminhos da História</title>
+  </programme>
+  <programme start="20210120060000 +0000" stop="20210120070000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Nota Alta</title>
+  </programme>
+  <programme start="20210120070000 +0000" stop="20210120073000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Clube de Cozinheiros</title>
+  </programme>
+  <programme start="20210120073000 +0000" stop="20210120080000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Face a Face</title>
+  </programme>
+  <programme start="20210120080000 +0000" stop="20210120090000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">D\u0027Mais</title>
+  </programme>
+  <programme start="20210120090000 +0000" stop="20210120093000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Pontos Cardeais</title>
+  </programme>
+  <programme start="20210120093000 +0000" stop="20210120100000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Clube de Cozinheiros</title>
+  </programme>
+  <programme start="20210120100000 +0000" stop="20210120130000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Manhã Informativa</title>
+  </programme>
+  <programme start="20210120130000 +0000" stop="20210120140000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Filhos \u0026 Cadilhos</title>
+  </programme>
+  <programme start="20210120140000 +0000" stop="20210120143000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Mentes Que Brilham</title>
+  </programme>
+  <programme start="20210120143000 +0000" stop="20210120150000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">À Descoberta</title>
+  </programme>
+  <programme start="20210120150000 +0000" stop="20210120163000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Consultório</title>
+  </programme>
+  <programme start="20210120163000 +0000" stop="20210120170000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">N\u0027Agenda</title>
+  </programme>
+  <programme start="20210120170000 +0000" stop="20210120180000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">D\u0027Mais</title>
+  </programme>
+  <programme start="20210120180000 +0000" stop="20210120183000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Mais Info</title>
+  </programme>
+  <programme start="20210120183000 +0000" stop="20210120200000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Alô Ricardo</title>
+  </programme>
+  <programme start="20210120200000 +0000" stop="20210120203000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Cinema Batalha</title>
+  </programme>
+  <programme start="20210120203000 +0000" stop="20210120205500 +0000" channel="PortoCanal.pt">
+    <title lang="pt">N\u0027Agenda</title>
+  </programme>
+  <programme start="20210120205500 +0000" stop="20210120220000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Jornal Diário</title>
+  </programme>
+  <programme start="20210120220000 +0000" stop="20210120230000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Universo Porto</title>
+  </programme>
+  <programme start="20210120230000 +0000" stop="20210120233000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Presidenciais 2021: Entrevista</title>
+  </programme>
+  <programme start="20210120233000 +0000" stop="20210121000000 +0000" channel="PortoCanal.pt">
+    <title lang="pt">Presidenciais 2021: Em Análise</title>
+  </programme>
+  <programme start="20210120020000 +0000" stop="20210120043000 +0000" channel="sporttv1.pt">
+    <title lang="pt">NBA: Utah x New Orleans Pelicans (Direto)</title>
+  </programme>
+  <programme start="20210120043000 +0000" stop="20210120060000 +0000" channel="sporttv1.pt">
+    <title lang="pt">Basquetebol: Mónaco x Unicaja Málaga - Eurocup</title>
+  </programme>
+  <programme start="20210120060000 +0000" stop="20210120062000 +0000" channel="sporttv1.pt">
+    <title lang="pt">Basquetebol: Mónaco x Unicaja Málaga - Eurocup</title>
+  </programme>
+  <programme start="20210120062000 +0000" stop="20210120085000 +0000" channel="sporttv1.pt">
+    <title lang="pt">NHL: Pittsburgh x Washington</title>
+  </programme>
+  <programme start="20210120085000 +0000" stop="20210120092000 +0000" channel="sporttv1.pt">
+    <title lang="pt">Taça Libertadores da América: Magazine</title>
+  </programme>
+  <programme start="20210120092000 +0000" stop="20210120095000 +0000" channel="sporttv1.pt">
+    <title lang="pt">Copa Sul-Americana: Magazine</title>
+  </programme>
+  <programme start="20210120095000 +0000" stop="20210120115000 +0000" channel="sporttv1.pt">
+    <title lang="pt">AS Roma x Spezia - Taça de Itália</title>
+  </programme>
+  <programme start="20210120115000 +0000" stop="20210120140000 +0000" channel="sporttv1.pt">
+    <title lang="pt">Sporting x FC Porto - Taça Da Liga - Taça da Liga</title>
+  </programme>
+  <programme start="20210120140000 +0000" stop="20210120160000 +0000" channel="sporttv1.pt">
+    <title lang="pt">Udinese x Atalanta - Liga Italiana (Direto)</title>
+  </programme>
+  <programme start="20210120160000 +0000" stop="20210120180000 +0000" channel="sporttv1.pt">
+    <title lang="pt">Galatasaray x Denizlispor - Superliga Turca (Direto)</title>
+  </programme>
+  <programme start="20210120180000 +0000" stop="20210120183000 +0000" channel="sporttv1.pt">
+    <title lang="pt">Sporting x FC Porto - Taça Da Liga - Taça da Liga</title>
+  </programme>
+  <programme start="20210120183000 +0000" stop="20210120194500 +0000" channel="sporttv1.pt">
+    <title lang="pt">SC Braga x Benfica - Taça Da Liga - Taça da Liga (Antevisão)</title>
+  </programme>
+  <programme start="20210120194500 +0000" stop="20210120222000 +0000" channel="sporttv1.pt">
+    <title lang="pt">SC Braga x Benfica - Taça Da Liga - Taça da Liga (Direto)</title>
+  </programme>
+  <programme start="20210120222000 +0000" stop="20210121011000 +0000" channel="sporttv1.pt">
+    <title lang="pt">UFC: Edwards x Chimaev</title>
+  </programme>
+  <programme start="20210120024000 +0000" stop="20210120031000 +0000" channel="sporttv2.pt">
+    <title lang="pt">Taça Da Liga Argentina: Resumos Da Jornada (Resumo)</title>
+  </programme>
+  <programme start="20210120031000 +0000" stop="20210120050500 +0000" channel="sporttv2.pt">
+    <title lang="pt">AS Roma x Spezia - Taça de Itália</title>
+  </programme>
+  <programme start="20210120050500 +0000" stop="20210120070000 +0000" channel="sporttv2.pt">
+    <title lang="pt">Sparta Roterdão x PSV - Liga Holandesa</title>
+  </programme>
+  <programme start="20210120070000 +0000" stop="20210120085000 +0000" channel="sporttv2.pt">
+    <title lang="pt">Cagliari x AC Milan - Liga Italiana</title>
+  </programme>
+  <programme start="20210120085000 +0000" stop="20210120104000 +0000" channel="sporttv2.pt">
+    <title lang="pt">Melbourne City x Western UTD - Liga Australiana</title>
+  </programme>
+  <programme start="20210120104000 +0000" stop="20210120123500 +0000" channel="sporttv2.pt">
+    <title lang="pt">Leicester City x Chelsea - Premier League</title>
+  </programme>
+  <programme start="20210120123500 +0000" stop="20210120143000 +0000" channel="sporttv2.pt">
+    <title lang="pt">Trabzonspor x Konyaspor - Superliga Turca</title>
+  </programme>
+  <programme start="20210120143000 +0000" stop="20210120162000 +0000" channel="sporttv2.pt">
+    <title lang="pt">West Ham x West Bromwich - Premier League</title>
+  </programme>
+  <programme start="20210120162000 +0000" stop="20210120165000 +0000" channel="sporttv2.pt">
+    <title lang="pt">Taça Libertadores da América: Magazine</title>
+  </programme>
+  <programme start="20210120165000 +0000" stop="20210120172500 +0000" channel="sporttv2.pt">
+    <title lang="pt">Copa Sul-Americana: Magazine</title>
+  </programme>
+  <programme start="20210120172500 +0000" stop="20210120180000 +0000" channel="sporttv2.pt">
+    <title lang="pt">Taça Da Liga Argentina: Resumos Da Jornada (Resumo)</title>
+  </programme>
+  <programme start="20210120180000 +0000" stop="20210120201500 +0000" channel="sporttv2.pt">
+    <title lang="pt">Man. City x Aston Villa - Premier League (Direto)</title>
+  </programme>
+  <programme start="20210120201500 +0000" stop="20210120221000 +0000" channel="sporttv2.pt">
+    <title lang="pt">Fulham x Man. United - Premier League (Direto)</title>
+  </programme>
+  <programme start="20210120221000 +0000" stop="20210120224000 +0000" channel="sporttv2.pt">
+    <title lang="pt">Segunda Liga: Magazine</title>
+  </programme>
+  <programme start="20210120224000 +0000" stop="20210121003000 +0000" channel="sporttv2.pt">
+    <title lang="pt">Futsal: Fundão x Sporting - Camp. Nacional</title>
+  </programme>
+  <programme start="20210120023000 +0000" stop="20210120090000 +0000" channel="sporttv3.pt">
+    <title lang="pt">Fora d´horas</title>
+  </programme>
+  <programme start="20210120090000 +0000" stop="20210120130000 +0000" channel="sporttv3.pt">
+    <title lang="pt">Fora d´horas</title>
+  </programme>
+  <programme start="20210120130000 +0000" stop="20210120150000 +0000" channel="sporttv3.pt">
+    <title lang="pt">NHL: Pittsburgh x Washington</title>
+  </programme>
+  <programme start="20210120150000 +0000" stop="20210120165000 +0000" channel="sporttv3.pt">
+    <title lang="pt">Ajax x Feyenoord - Liga Holandesa</title>
+  </programme>
+  <programme start="20210120165000 +0000" stop="20210120172000 +0000" channel="sporttv3.pt">
+    <title lang="pt">Liga Holandesa: 17ª Jornada (Resumo)</title>
+  </programme>
+  <programme start="20210120172000 +0000" stop="20210120192500 +0000" channel="sporttv3.pt">
+    <title lang="pt">AS Roma x Spezia - Taça de Itália</title>
+  </programme>
+  <programme start="20210120192500 +0000" stop="20210120200000 +0000" channel="sporttv3.pt">
+    <title lang="pt">Antevisão: Juventus x Nápoles - Supertaça de Itália</title>
+  </programme>
+  <programme start="20210120200000 +0000" stop="20210120221000 +0000" channel="sporttv3.pt">
+    <title lang="pt">Juventus x Nápoles - Supertaça de Itália (Direto)</title>
+  </programme>
+  <programme start="20210120221000 +0000" stop="20210121000000 +0000" channel="sporttv3.pt">
+    <title lang="pt">Udinese x Atalanta - Liga Italiana</title>
+  </programme>
+  <programme start="20210120025000 +0000" stop="20210120075000 +0000" channel="sporttv4.pt">
+    <title lang="pt">Fora d’Horas</title>
+  </programme>
+  <programme start="20210120075000 +0000" stop="20210120124000 +0000" channel="sporttv4.pt">
+    <title lang="pt">Fora d’Horas</title>
+  </programme>
+  <programme start="20210120124000 +0000" stop="20210120131000 +0000" channel="sporttv4.pt">
+    <title lang="pt">Esqui: Kreischberg, Austria - Taça do Mundo Freestyle</title>
+  </programme>
+  <programme start="20210120131000 +0000" stop="20210120180000 +0000" channel="sporttv4.pt">
+    <title lang="pt">Ténis: Final Masters Cup Xangai 2005 - Nalbandian x Federer</title>
+  </programme>
+  <programme start="20210120180000 +0000" stop="20210120200000 +0000" channel="sporttv4.pt">
+    <title lang="pt">Córdoba x Real Sociedad - Taça do Rei (Direto)</title>
+  </programme>
+  <programme start="20210120200000 +0000" stop="20210120215000 +0000" channel="sporttv4.pt">
+    <title lang="pt">Ténis: Final Masters Cup Xangai 2006 - Federer x Blake</title>
+  </programme>
+  <programme start="20210120215000 +0000" stop="20210121000000 +0000" channel="sporttv4.pt">
+    <title lang="pt">Ténis: ATP World Tour Uncovered</title>
+  </programme>
+  <programme start="20210120020000 +0000" stop="20210120080000 +0000" channel="sporttv5.pt">
+    <title lang="pt">NBA: Denver Nuggets x Oklahoma City Thunder (Direto)</title>
+  </programme>
+  <programme start="20210120080000 +0000" stop="20210120102000 +0000" channel="sporttv5.pt">
+    <title lang="pt">NBA: Denver Nuggets x Oklahoma City Thunder</title>
+  </programme>
+  <programme start="20210120102000 +0000" stop="20210120124000 +0000" channel="sporttv5.pt">
+    <title lang="pt">NBA: Utah Jazz x New Orleans Pelicans</title>
+  </programme>
+  <programme start="20210120124000 +0000" stop="20210120143000 +0000" channel="sporttv5.pt">
+    <title lang="pt">Basquetebol: Mónaco x Unicaja Málaga - Eurocup</title>
+  </programme>
+  <programme start="20210120143000 +0000" stop="20210120150000 +0000" channel="sporttv5.pt">
+    <title lang="pt">Esqui: Kreischberg, Austria</title>
+  </programme>
+  <programme start="20210120150000 +0000" stop="20210120153000 +0000" channel="sporttv5.pt">
+    <title lang="pt">Esqui: Zgrebe, Croacia + Adelboden, Suiça + St. Anton, Austria</title>
+  </programme>
+  <programme start="20210120153000 +0000" stop="20210120160000 +0000" channel="sporttv5.pt">
+    <title lang="pt">Esqui: Kreischberg, Austria + Scuol, Suiça</title>
+  </programme>
+  <programme start="20210120160000 +0000" stop="20210120180000 +0000" channel="sporttv5.pt">
+    <title lang="pt">Futsal: Futsal Azeméis x Benfica - Camp. Nacional</title>
+  </programme>
+  <programme start="20210120180000 +0000" stop="20210120200000 +0000" channel="sporttv5.pt">
+    <title lang="pt">Futsal: Fundão x Sporting - Camp. Nacional (Direto)</title>
+  </programme>
+  <programme start="20210120200000 +0000" stop="20210120220000 +0000" channel="sporttv5.pt">
+    <title lang="pt">Alcoyano x Real Madrid - Taça do Rei (Direto)</title>
+  </programme>
+  <programme start="20210120220000 +0000" stop="20210121000000 +0000" channel="sporttv5.pt">
+    <title lang="pt">SC Braga x Benfica - Taça da Liga</title>
+  </programme>
+</tv>
